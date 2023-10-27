@@ -1,8 +1,15 @@
-//Print "hello world" without using ';'symbol
+//Print "Hello World" without using ';'symbol
 
 #include<stdio.h>
-void main(){
-	if(printf("Hello world"))
+void main()
+{
+	if(hello wolrd)
 	{
+		
+	}
+	else
+	{
+		
 	}
 }
+
